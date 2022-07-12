@@ -7,6 +7,7 @@ For example, this script can be used to visualize the average monthly temperatur
 ### CRU average temperature (1901-2020):
 <img width="450" src="https://github.com/johannesuhl/cru_data_processing/blob/main/cru_tmp_animated_global2.gif">
 
+For further code on CRU data extraction and visualization, see https://github.com/johannesuhl/cru_data_processing.
 ### References:
 
 Harris, I., Osborn, T. J., Jones, P., & Lister, D. (2020). Version 4 of the CRU TS monthly high-resolution gridded multivariate climate dataset. Scientific data, 7(1), 1-18. https://doi.org/10.1038/s41597-020-0453-3
