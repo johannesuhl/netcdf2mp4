@@ -1,4 +1,4 @@
-### netcdf2mp4: A python script to create animated data visualizations from spatio-temporal netcdf datasets stored as animated GIF and  MP4 video file.
+### netcdf2mp4: A python script to create animated data visualizations from spatio-temporal netcdf datasets in GIF and MP4 format.
 
 This script uses ```gdal``` to read NetCDF data, uses ```matplotlib``` to plot the data for each point in time, and uses ```imageio``` to create an animated GIF. Finally, it uses ```moviepy``` to convert the animated gif to MP4 video format, which will reduce file size. For example, the below GIF is 29MB, and the corresponding MP4 file is less than 3MB.
 
